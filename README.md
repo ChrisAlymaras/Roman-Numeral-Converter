@@ -1,7 +1,10 @@
 # Roman-Numeral-Converter
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 Roman numeral converter using a subtractive mapping algorithm for accurate symbol generation.
 
-Futures: 
+**Futures:** 
 1) Input validation for empty, negative, and out-of-range values.
 2) It has no functionality to letter inputs.
 3) It is restricted to numbers between 1 and 3999.
